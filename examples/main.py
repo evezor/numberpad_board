@@ -37,17 +37,12 @@ for i in range(len(COLUMN)):
 
 #Setup hbt timer
 hbt_state = 0
-hbt_interval = 250
+hbt_interval = 500
 start = utime.ticks_ms()
 next_hbt = utime.ticks_add(start, hbt_interval)
 hbt_led.value(hbt_state)
 
 
-
-
-#Setup button check timer        
-button_chk_interval = 100
-next_button_chk = utime.ticks_add(start, hbt_interval)
 
 print("starting")
 
@@ -98,16 +93,4 @@ while True:
         ROW[i].value(0)
 
     
-
-
-
-
-
-
-
-
-
-
-
-
-    
+   
