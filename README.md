@@ -3,17 +3,15 @@
 
 An edge board containing with a numberpad face with 12 buttons. 
 
-![sm]()
+![sm](https://github.com/evezor/v0_numberpad_board/blob/master/pics/sm.PNG)
 
-![sm2]()
+![front](https://github.com/evezor/v0_numberpad_board/blob/master/pics/front.PNG)
 
-![front]()
+![back](https://github.com/evezor/v0_numberpad_board/blob/master/pics/back.PNG)
 
-![back]()
+![copper](https://github.com/evezor/v0_numberpad_board/blob/master/pics/copper.PNG)
 
-![copper]()
-
-![sch]()
+![sch](https://github.com/evezor/v0_numberpad_board/blob/master/cad_files/GENERIC_CAN.svg)
 
 
 source files can be found here: hhttps://github.com/evezor/v0_numberpad_board
