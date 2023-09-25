@@ -1,4 +1,4 @@
-# Low Power Mosfet Board
+# Numberpad Board
 *please note this board has been deprecated.
 
 An edge board containing with a numberpad face with 12 buttons. 
